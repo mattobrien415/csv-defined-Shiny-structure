@@ -29,7 +29,7 @@ Each tab contains one ggplot, featuring the variables; in this case 'var1' to 'v
 Click [here](https://mattobriendotme.shinyapps.io/csv-defined-Shiny-structure/) to see it in action.  
 
 ---
-Screenshot:  
+Examine the screenshot and map trace each element back to the appropriate csv:  
 
 ![alt text][logo]
 
